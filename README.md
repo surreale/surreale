@@ -1,7 +1,7 @@
 ![logo](https://github.com/surreale/surreale/blob/main/banner.png)
 
 ```assembly
-namespace HelloWorld
+namespace sayHello
 {
     class Say {         
         static void Main(string[] args)
