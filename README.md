@@ -1,6 +1,5 @@
 ![logo](https://github.com/surreale/surreale/blob/main/banner.png)
 
-<h2>
 ```assembly
 section	.text
 	      global _start
@@ -18,7 +17,6 @@ section	.data
 msg	    db	'Heyho', 0xa
 len	    equ	$ - msg
 ```
-</h2>
 
 <h1 align="center">Hey! I'm Marci</h1>
 <h3 align="center">I'm NOT a programmer, I'm just here for no reason actually.</h3>
