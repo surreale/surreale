@@ -25,8 +25,6 @@ namespace spn
 <h1 align="center">Hey! I'm Marci</h1>
 <h3 align="center">I'm NOT a programmer, I'm just here for no reason actually.</h3>
 
-<img align="center" alt="huh" width="350" src="https://media.tenor.com/gg_kphtCA6UAAAAC/cat-angry.gif">
-
 <p align="left">
 </p>
 
