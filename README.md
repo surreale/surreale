@@ -1,21 +1,15 @@
 ![logo](https://github.com/surreale/surreale/blob/main/banner.png)
 
 ```assembly
-section	.text
-	      global _start
-_start:
-	      mov	edx, len
-	      mov	ecx, msg
-	      mov	ebx, 1
-	      mov	eax, 4
-	      int	0x80
-	      mov	eax, 1
-	      int	0x80
-
-section	.data
-
-msg	    db	'Heyho', 0xa
-len	    equ	$ - msg
+namespace HelloWorld
+{
+    class Say {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Heyho");
+        }
+    }
+}
 ```
 
 <h1 align="center">Hey! I'm Marci</h1>
